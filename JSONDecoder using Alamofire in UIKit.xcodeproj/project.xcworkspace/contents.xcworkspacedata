@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:JSONDecoder using Alamofire in UIKit.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
